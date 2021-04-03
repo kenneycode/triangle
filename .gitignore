@@ -1,0 +1,8 @@
+cmake-build-debug
+.gradle
+.idea
+.android/.gradle
+.android/.idea
+samples/android/app/.cxx
+*.properties
+*.iml
